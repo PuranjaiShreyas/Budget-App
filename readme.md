@@ -1,4 +1,4 @@
-# Budget App
+# tr App
 
 A Python-based budgeting application designed to help users track and manage their personal finances. The app provides an intuitive command-line interface where users can create budget categories, track expenses, and visualize spending patterns through automatically generated charts.
 
